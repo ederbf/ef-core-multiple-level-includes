@@ -1,2 +1,2 @@
-# EF-Core-multiple-level-includes
+# ef-core-multiple-level-includes
  Multiple level includes feature for EF Core
